@@ -1,4 +1,4 @@
-#Week 5: Piping
+#Week 5 Assignment: Piping
 # Luis Arocas del CAstillo - la0116 - 1102657
 
 #Lines 5 through 20 are examples of various file types 
